@@ -22,4 +22,6 @@ in the news titles. This word cloud provides a quick visual summary of trending 
 The project demonstrates my understanding of API integration, basic data processing, and creative data visualization in Python.
 
 
+OUTPUT : https://github.com/user-attachments/assets/b33bd06f-ba54-4052-b0a8-9f06bd851cdc
+
 
